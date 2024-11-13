@@ -40,3 +40,7 @@ Com o tempo, é esperado a adição de novas características e features como:
 <p align="center">
  <img src="./Image.png">
 </p>
+
+## Jogue a versão atual!
+No momento, temos a versão para [windows e linux](https://drive.google.com/drive/folders/1j8-biWYGvQ0iEHgulk_0X-F9ajz1F1Ix?usp=sharing) no drive! Versão web ficará pronta em versões mais atualizadas.
+OBS: Na versão linux pode ser necessário permitir que o arquivo rode. No caso, apenas clique com o botão direito do mouse -> preferências -> permitir execução do arquivo
