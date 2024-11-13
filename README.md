@@ -12,3 +12,28 @@ Sim! Um tabuleiro de xadrez! Você joga como Roberto, um grão-mestre de xadrez 
 <img align="right"  src="./image.png" > <img align="center"  src="./Player.gif">
 
 
+## Mecânicas
+
+Em O Gambito do Peão, você controla o nosso grão-mestre andando com WASD ou as setas do teclado, além de um arranque (dash) com a barra de espaço.
+
+Cada peça tem um ataque único e se movimenta respeitando as regras do xadrez tradicional.
+
+Cada peça derruba um cristal de experiência que o ajuda a subir de nível!
+
+Além da ação frenética, é possível encontrar equipamentos e upgrades conforme sobrevive às hordas de peças! No momento, temos:
+ - Marreta: Objeto forte que gira ao seu redor destruindo tudo que toca! (acumulável!)
+ - Blaster: Objeto que atira um projétil à distância e rápido!
+ - Manto do Rei: Aura que envolve e corrói peças próximas!
+ - Upgrades de dano, vida, velocidade, defesa, evolução de equipamentos e mais!
+
+Na versão atual, o objetivo é sobreviver 10 minutos com eventos ativados em certos momentos do jogo!
+
+## Próximas atualizações
+Com o tempo, é esperado a adição de novas características e features como:
+ - Melhorias visuais.
+ - Novos equipamentos para diversificar builds.
+ - Novos upgrades.
+ - Itens! Cada um com uma característica própria ou habilidade nova!
+ - Mais eventos com recompensas.
+ - Confronto de chefão final contra o Rei e a Rainha.
+
