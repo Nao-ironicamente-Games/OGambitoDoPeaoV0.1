@@ -36,4 +36,7 @@ Com o tempo, é esperado a adição de novas características e features como:
  - Itens! Cada um com uma característica própria ou habilidade nova!
  - Mais eventos com recompensas.
  - Confronto de chefão final contra o Rei e a Rainha.
-
+ - E mais!
+<p align="center">
+ <img src="./Image.png">
+</p>
